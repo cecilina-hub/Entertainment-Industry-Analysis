@@ -1,4 +1,4 @@
-# Entertainment-Industry-Analysi
+# Entertainment-Industry-Analysis
 Project Title	:Entertainer Data Analytics
 
 Technologies	:Data Science
